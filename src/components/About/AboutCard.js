@@ -11,10 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Kondasani Malathi </span>
             from <span className="purple"> Sri Sathya Sai, AP, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently seeking for an oppurtunity to use my knowledge.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I am pursuing Bachelour of Technology at Rajeev Gandhi Memorial College of Engineering and Technology,
+            Nandyal.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
